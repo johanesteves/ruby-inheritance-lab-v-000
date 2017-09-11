@@ -28,4 +28,4 @@ johan.learn(some_knowledge)
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
 
-puts "'#{steve.first_name}' has this'#{steve.knowledge}'"
+puts "#{steve.first_name} has this #{steve.knowledge}!"
