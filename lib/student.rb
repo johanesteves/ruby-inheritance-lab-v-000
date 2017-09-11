@@ -8,6 +8,7 @@ class Student < User
   end
 
   def learn(text)
+    binding.pry
     @knowledge << text
   end
 
